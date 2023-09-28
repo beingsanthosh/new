@@ -1,0 +1,1 @@
+export let names=['san'+'gun'+'mah'];
